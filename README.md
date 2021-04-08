@@ -81,12 +81,16 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 ### 🔭 **`let projects = [`**
 
 [![JavaScript 30 days challenge](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=js-30-days-challenge&theme=dark)](https://github.com/2y2son4/js-30-days-challenge)
+`,`
 
 [![Rick & Morty Browser](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=rick-and-morty-characters-browser&theme=dark)](https://github.com/2y2son4/rick-and-morty-characters-browser)
+`,`
 
 [![Changing background colors](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=changing-background-colors&theme=dark)](https://github.com/2y2son4/changing-background-colors)
+`,`
 
 [![Sexto sentido](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=equipo-sexto-sentido&theme=dark)](https://github.com/2y2son4/equipo-sexto-sentido)
+`,`
 
 [![Users and organization GitHub browser](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=github-users-organizations-search&theme=dark)](https://github.com/2y2son4/github-users-organizations-search)
 
@@ -95,6 +99,7 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 ### 📈 **`let statics =`**
 
 ![2y2son4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2y2son4&theme=dark&show_icons=true&custom_title=2y2son4-y-sus-locas-aventuras)
+`,`
 
 ![2y2son4's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2y2son4&count_private=true&theme=dark&layout=compact)
 

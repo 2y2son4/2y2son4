@@ -81,20 +81,16 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 
 ### 🔭 **`let projects = [`**
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio),
-
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio)
+`,`
 [![JavaScript 30 days challenge](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=js-30-days-challenge&theme=dark)](https://github.com/2y2son4/js-30-days-challenge)
 `,`
-
 [![Rick & Morty Browser](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=rick-and-morty-characters-browser&theme=dark)](https://github.com/2y2son4/rick-and-morty-characters-browser)
 `,`
-
 [![Changing background colors](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=changing-background-colors&theme=dark)](https://github.com/2y2son4/changing-background-colors)
 `,`
-
 [![Sexto sentido](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=equipo-sexto-sentido&theme=dark)](https://github.com/2y2son4/equipo-sexto-sentido)
 `,`
-
 [![Users and organization GitHub browser](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=github-users-organizations-search&theme=dark)](https://github.com/2y2son4/github-users-organizations-search)
 
 ### `];`

@@ -81,7 +81,7 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 
 ### 🔭 **`let projects = [`**
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio),
 
 [![JavaScript 30 days challenge](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=js-30-days-challenge&theme=dark)](https://github.com/2y2son4/js-30-days-challenge)
 `,`

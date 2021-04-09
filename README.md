@@ -24,45 +24,46 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 
 #### `{Front_end:`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&label&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&label&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&label&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&label&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&label&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&label&logo=html5&logoColor=white),
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&label&logo=css3&logoColor=white),
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&label&logo=sass&logoColor=white),
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&label&logo=bootstrap&logoColor=white),
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&label&logo=javascript&logoColor=F7DF1E),
 ![React](https://img.shields.io/badge/React-20232A?style=flat&label&logo=react&logoColor=61DAFB)
 
 #### `},`
 
 #### `{Back_end:`
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&label&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&label&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&label&logo=sqlite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&label&logo=node.js&logoColor=white),
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&label&logo=express&logoColor=white),
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&label&logo=sqlite&logoColor=white),
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&label&logo=mysql&logoColor=white)
 
 #### `},`
 
 #### `{Diseño:`
 
-![Photoshop](https://img.shields.io/badge/Photoshop-075584?style=flat&label&logo=adobe-photoshop&logoColor=061e26)
-![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat&label&logo=adobe-indesign&logoColor=26000f)
+![Photoshop](https://img.shields.io/badge/Photoshop-075584?style=flat&label&logo=adobe-photoshop&logoColor=061e26),
+![InDesign](https://img.shields.io/badge/InDesign-E749A0?style=flat&label&logo=adobe-indesign&logoColor=26000f),
 ![Illustrator](https://img.shields.io/badge/Illustrator-f57d0c?style=flat&label&logo=adobe-illustrator&logoColor=261300)
 
 #### `},`
 
 #### `{Herramientas:`
 
-![GIT](https://img.shields.io/badge/-git-F05032.svg?style=flat&label&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CC3534.svg?style=flat&label&logo=npm&logoColor=white)
-![Gulp](https://img.shields.io/badge/-gulp-cf4647.svg?style=flat&label&logo=gulp&logoColor=white)
+![GIT](https://img.shields.io/badge/-git-F05032.svg?style=flat&label&logo=git&logoColor=white),
+![npm](https://img.shields.io/badge/-npm-CC3534.svg?style=flat&label&logo=npm&logoColor=white),
+![Gulp](https://img.shields.io/badge/-gulp-cf4647.svg?style=flat&label&logo=gulp&logoColor=white),
+![Postman](https://img.shields.io/badge/-Postman-ff6c37.svg?style=flat&label&logo=postman&logoColor=white),
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC.svg?style=flat&label&logo=visual-studio-code&logoColor=white)
 
 #### `},`
 
 #### `{Trabajo_remoto:`
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&label&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/zoom-2D8CFF?style=flat&label&logo=zoom&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&label&logo=slack&logoColor=white),
+![Zoom](https://img.shields.io/badge/zoom-2D8CFF?style=flat&label&logo=zoom&logoColor=white),
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&label&logo=discord&logoColor=white)
 
 #### `}`
@@ -79,6 +80,8 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 ### `;`
 
 ### 🔭 **`let projects = [`**
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio)
 
 [![JavaScript 30 days challenge](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=js-30-days-challenge&theme=dark)](https://github.com/2y2son4/js-30-days-challenge)
 `,`

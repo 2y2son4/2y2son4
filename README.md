@@ -95,7 +95,7 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 
 ### `];`
 
-### 📈 **`let statics =`**
+### 📈 **`let statistics =`**
 
 ![2y2son4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2y2son4&theme=dark&show_icons=true&custom_title=2y2son4-y-sus-locas-aventuras)
 `,`

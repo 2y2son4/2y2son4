@@ -29,6 +29,7 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&label&logo=sass&logoColor=white),
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&label&logo=bootstrap&logoColor=white),
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&label&logo=javascript&logoColor=F7DF1E),
+![Angular](https://img.shields.io/badge/Angular-20232A?style=flat&label&logo=angular&logoColor=c3002f)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&label&logo=react&logoColor=61DAFB)
 
 #### `},`

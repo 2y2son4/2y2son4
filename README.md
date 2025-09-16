@@ -77,6 +77,8 @@ navegar por los canales del cero y el uno que valen mucho más que eso, y están
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/flex-portfolio)
 `,`
+[![Board games showcase](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=flex-portfolio&theme=dark)](https://github.com/2y2son4/board-games-showcase)
+`,`
 [![JavaScript 30 days challenge](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=js-30-days-challenge&theme=dark)](https://github.com/2y2son4/js-30-days-challenge)
 `,`
 [![Rick & Morty Browser](https://github-readme-stats.vercel.app/api/pin/?username=2y2son4&repo=rick-and-morty-characters-browser&theme=dark)](https://github.com/2y2son4/rick-and-morty-characters-browser)
